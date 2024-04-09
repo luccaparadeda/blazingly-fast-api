@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-09"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = AZMEASQgNWJkMmYwZDYtYWE1YS00ZDU2LTk3M2EtMTlmOWExNGQ3YTEwNWMzNjg1NmE1YWYwNGIxODhhOTVlMDBjOThkOTM2NzY=
+UPSTASH_REDIS_REST_URL= https://us1-moral-mink-37636.upstash.io
